@@ -294,3 +294,51 @@ insert into TCarga values('39','D0039','AS039','Primer Semestre');
 insert into TCarga values('40','D0040','AS040','Segundo Semestre');
 
 SELECT * FROM TCarga
+
+
+-- esta es la tercera version del trbajo
+-- que incluye mas datos
+
+--Tabla Carga
+insert into TCarga values('1','D0001','AS001','Primer Semestre');
+insert into TCarga values('2','D0002','AS002','Segundo Semestre');
+insert into TCarga values('3','D0003','AS003','Primer Semestre');
+insert into TCarga values('4','D0004','AS004','Segundo Semestre');
+insert into TCarga values('5','D0005','AS005','Primer Semestre');
+insert into TCarga values('6','D0006','AS006','Segundo Semestre');
+insert into TCarga values('7','D0007','AS007','Primer Semestre');
+insert into TCarga values('8','D0008','AS008','Segundo Semestre');
+insert into TCarga values('9','D0009','AS009','Primer Semestre');
+insert into TCarga values('10','D0010','AS010','Segundo Semestre');
+insert into TCarga values('11','D0011','AS011','Primer Semestre');
+insert into TCarga values('12','D0012','AS012','Segundo Semestre');
+insert into TCarga values('13','D0013','AS013','Primer Semestre');
+insert into TCarga values('14','D0014','AS014','Segundo Semestre');
+insert into TCarga values('15','D0015','AS015','Primer Semestre');
+insert into TCarga values('16','D0016','AS016','Segundo Semestre');
+insert into TCarga values('17','D0017','AS017','Primer Semestre');
+insert into TCarga values('18','D0018','AS018','Segundo Semestre');
+insert into TCarga values('19','D0019','AS019','Primer Semestre');
+insert into TCarga values('20','D0020','AS020','Segundo Semestre');
+insert into TCarga values('21','D0021','AS021','Primer Semestre');
+insert into TCarga values('22','D0022','AS022','Segundo Semestre');
+insert into TCarga values('23','D0023','AS023','Primer Semestre');
+insert into TCarga values('24','D0024','AS024','Segundo Semestre');
+insert into TCarga values('25','D0025','AS025','Primer Semestre');
+insert into TCarga values('26','D0026','AS026','Segundo Semestre');
+insert into TCarga values('27','D0027','AS027','Primer Semestre');
+insert into TCarga values('28','D0028','AS028','Segundo Semestre');
+insert into TCarga values('29','D0029','AS029','Primer Semestre');
+insert into TCarga values('30','D0030','AS030','Segundo Semestre');
+insert into TCarga values('31','D0031','AS031','Primer Semestre');
+insert into TCarga values('32','D0032','AS032','Segundo Semestre');
+insert into TCarga values('33','D0033','AS033','Primer Semestre');
+insert into TCarga values('34','D0034','AS034','Segundo Semestre');
+insert into TCarga values('35','D0035','AS035','Primer Semestre');
+insert into TCarga values('36','D0036','AS036','Segundo Semestre');
+insert into TCarga values('37','D0037','AS037','Primer Semestre');
+insert into TCarga values('38','D0038','AS038','Segundo Semestre');
+insert into TCarga values('39','D0039','AS039','Primer Semestre');
+insert into TCarga values('40','D0040','AS040','Segundo Semestre');
+
+SELECT * FROM TCarga
